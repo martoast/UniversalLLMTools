@@ -22,7 +22,7 @@ git clone https://github.com/yourusername/UniversalLLMTools.git
 cd UniversalLLMTools
 
 # Install dependencies
-pip install requests openai google-generativeai
+pip install requests openai google-generativeai anthropic
 ```
 
 ## Usage
